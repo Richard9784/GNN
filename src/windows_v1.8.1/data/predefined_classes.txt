@@ -1,0 +1,14 @@
+background
+adult
+kid
+nonstandard_bin
+lower_standard_bin
+upper_standard_bin
+lean_bike
+front_bike
+car
+fire_hydrant
+telegraph_pole
+stool
+tree
+
